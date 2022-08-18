@@ -13,6 +13,7 @@ public class Day2_Git {
            git push -u origin master
       Not: Bu iki komutu tek seferde kullandiktan sonra diger ikinci commitlerim icin sadece git push kullaniriz.
       Not: git log --oneline = commitlerimdeki yani versiyonlarimdaki durumu gosterir.
+      not" git hub ogrendim 
 
      */
     public static void main(String[] args) {
